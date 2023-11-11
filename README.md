@@ -6,3 +6,7 @@ Cette architecture complète crée un processus fluide et automatisé pour le d�
 
 ![](architecture.png)
 ![architecture](archi.png)
+
+
+#Etapes
+## mlflow
